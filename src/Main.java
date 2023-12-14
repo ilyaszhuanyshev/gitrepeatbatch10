@@ -18,5 +18,10 @@ public class Main {
         String hello = "Hello";
         System.out.println(hello);
 
+        int x = 111;
+        int y = 999;
+
+        System.out.println(x + y);
+
     }
 }
