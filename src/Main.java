@@ -12,5 +12,10 @@ public class Main {
 
         System.out.println(a + b);
 
+        int x = 111;
+        int y = 999;
+
+        System.out.println(x + y);
+
     }
 }
