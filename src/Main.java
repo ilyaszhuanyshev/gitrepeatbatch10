@@ -6,5 +6,11 @@ public class Main {
         System.out.println(name + " " + age + " years old");
 
         System.out.println("New Code");
+
+        int a = 10;
+        int b = 20;
+
+        System.out.println(a + b);
+
     }
 }
